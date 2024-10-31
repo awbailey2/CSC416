@@ -114,3 +114,5 @@ kb = [
 ]
 query = 'Evil(John)'
 print(inference_by_resolution(kb, query))  # Expected output: True
+
+# https://chatgpt.com/share/6723cbcd-57d8-8013-b178-ec02d893cd33
